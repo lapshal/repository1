@@ -1,1 +1,1 @@
-this is an ap.ple pie recipe.click to watch it.
+This is an apple pie recipe.Сlick to watch it.
